@@ -34,12 +34,12 @@ def sanitize(time_string):
 def show_list(list_data):
     print(list_data.name + "'s fatest times are: " + str(list_data.top3()))
 
-james = get_coach_data('james.txt')
-julie = get_coach_data('julie.txt')
-mikey = get_coach_data('mikey.txt')
-sarah = get_coach_data('sarah.txt')
+# james = get_coach_data('james.txt')
+# julie = get_coach_data('julie.txt')
+# mikey = get_coach_data('mikey.txt')
+# sarah = get_coach_data('sarah.txt')
 
-show_list(james)
-show_list(julie)
-show_list(mikey)
-show_list(sarah)
+# show_list(james)
+# show_list(julie)
+# show_list(mikey)
+# show_list(sarah)
